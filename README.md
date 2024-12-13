@@ -93,6 +93,14 @@ python3 modify_submission.py --id submission_id --email your_email --anonymous F
 ## Synthetic Data Generation
 <img src="imgs/synthetic_gallery.jpg" width='1000'>
 
+### Pre-rendered Dataset
+You can find the pre-rendered images [here](https://drive.google.com/drive/folders/17WFb_k5PNXb6C0b4I2Nwt1uzkQs3ctuW?usp=sharing).
+
+To unzip the dataset, download all the files then run:
+```
+cat *.tar.gz.* | tar xvfz -
+```
+
 ### Set up Blender
 To generate multiple layer ground truth from blender, you will need to build customized blender.
 
