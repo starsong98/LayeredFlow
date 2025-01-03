@@ -1,0 +1,20 @@
+{
+    "path": "interior-scene-of-bathroom-cycles/BATHROOM.blend",
+    "type": "bathroom",
+    "link": "https://www.blendswap.com/blend/6369",
+    "camera": {
+        "loc": [6, 0, 1],
+        "dir": [1, 0, 0],
+        "len": 30
+    },
+    "camera_range": {
+        "loc_lower_bound": [-2, -5.5, -0.5],
+        "loc_upper_bound": [6, 0, 1.5],
+        "dir_lower_bound": [-1, -0.2, -0.3],
+        "dir_upper_bound": [0.2, 1, 0.1],
+        "focus_lower_bound": 20,
+        "focus_upper_bound": 50,
+        "distance_lower_bound": 0.5,
+        "distance_upper_bound": 50
+    }
+}

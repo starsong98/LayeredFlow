@@ -1,0 +1,22 @@
+{
+    "path": "kitchen-nr-2/cocina-II.blend",
+    "type": "kitchen",
+    "link": "https://www.blendswap.com/blend/10416",
+    "camera": {
+        "loc": [4, -7, 1],
+        "dir": [-0.5, 1, -0.1],
+        "len": 40
+    },
+    "camera_range": {
+        "loc_lower_bound": [0, -8, 0.5],
+        "loc_upper_bound": [5, -2, 1],
+        "dir_lower_bound": [-1, 0, -0.2],
+        "dir_upper_bound": [1, 1, 0.1],
+        "focus_lower_bound": 20,
+        "focus_upper_bound": 50,
+        "distance_lower_bound": 0.8,
+        "distance_upper_bound": 50
+    },
+    "light_adjust": 1.0,
+    "moving_threshold": 4
+}

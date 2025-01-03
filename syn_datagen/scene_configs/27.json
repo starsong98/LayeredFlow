@@ -1,0 +1,21 @@
+{
+    "path": "bedroom/bedroom.blend",
+    "type": "bedroom",
+    "link": "https://www.blendswap.com/blend/10628",
+    "camera": {
+        "loc": [6, -1, 1.6],
+        "dir": [-1, 0.3, 0],
+        "len": 30
+    },
+    "camera_range": {
+        "loc_lower_bound": [0, -3, 1],
+        "loc_upper_bound": [3.5, 1.5, 2],
+        "dir_lower_bound": [-1, 0, -0.2],
+        "dir_upper_bound": [-0.3, 0.7, 0.1],
+        "focus_lower_bound": 20,
+        "focus_upper_bound": 50,
+        "distance_lower_bound": 1,
+        "distance_upper_bound": -1
+    },
+    "light_adjust": 0.2
+}

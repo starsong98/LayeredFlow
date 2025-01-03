@@ -1,0 +1,22 @@
+{
+    "path": "kitchen-3/kitchen.blend",
+    "type": "kitchen",
+    "link": "https://www.blendswap.com/blend/7489",
+    "camera": {
+        "loc": [-2, -2, 2.5],
+        "dir": [0.7, 1, -0.3],
+        "len": 35
+    },
+    "camera_range": {
+        "loc_lower_bound": [-2, -2, 0],
+        "loc_upper_bound": [0, 1, 3],
+        "dir_lower_bound": [-0.1, -0.1, -0.1],
+        "dir_upper_bound": [1, 1, 0.1],
+        "focus_lower_bound": 20,
+        "focus_upper_bound": 50,
+        "distance_lower_bound": 0,
+        "distance_upper_bound": -1
+    },
+    "moving_threshold": 3,
+    "light_adjust": 1
+}

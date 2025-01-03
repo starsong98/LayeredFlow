@@ -1,0 +1,21 @@
+{
+    "path": "stone-shower/shower9.blend",
+    "type": "bathroom",
+    "link": "https://www.blendswap.com/blend/8180",
+    "camera": {
+        "loc": [0.8, -13, 4],
+        "dir": [0.2, 1, 0],
+        "len": 30
+    },
+    "camera_range": {
+        "loc_lower_bound": [0, -10, 2],
+        "loc_upper_bound": [6, -6, 6],
+        "dir_lower_bound": [-1, 0.2, -0.2],
+        "dir_upper_bound": [1, 1, 0.1],
+        "focus_lower_bound": 20,
+        "focus_upper_bound": 50,
+        "distance_lower_bound": 1,
+        "distance_upper_bound": 40
+    },
+    "light_adjust": 1
+}

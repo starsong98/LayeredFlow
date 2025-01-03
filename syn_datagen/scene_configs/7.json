@@ -1,0 +1,21 @@
+{
+    "path": "modern-kitchen/modern.blend",
+    "type": "kitchen",
+    "link": "https://www.blendswap.com/blend/5472",
+    "camera": {
+        "loc": [-2, -30, 5],
+        "dir": [0, 1, 0],
+        "len": 35
+    },
+    "camera_range": {
+        "loc_lower_bound": [-6, -25, 4],
+        "loc_upper_bound": [2, 8, 8],
+        "dir_lower_bound": [-0.5, 0.3, -0.2],
+        "dir_upper_bound": [0.5, 1.0, 0.1],
+        "focus_lower_bound": 20,
+        "focus_upper_bound": 50,
+        "distance_lower_bound": 2,
+        "distance_upper_bound": 40
+    },
+    "lighting_adjust": 4.0
+}

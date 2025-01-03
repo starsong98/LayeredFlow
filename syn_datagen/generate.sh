@@ -1,0 +1,1 @@
+blender -noaudio --background --python render.py -- --data --sample_view --scene_id 0 --num_images 1 --generate_gt

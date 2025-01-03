@@ -118,8 +118,7 @@ Then build blender from source following [instructions](https://developer.blende
 
 ### Rendering Scripts
 
-Coming Soon!
-
+Download [blenders files](https://drive.google.com/file/d/1Z7mgXQfUvg7rPXYc1nmUfkCEws-AGzlM/view?usp=share_link) and [hdrs files](https://drive.google.com/file/d/1-Nbe6i3fUI2vMxAeNjXnIMv8BwYJToE-/view?usp=share_link), save and extract them into `syn_datagen` folder. Then run `syn_datagen/generate.sh`.
 
 ## Acknowledgements
 

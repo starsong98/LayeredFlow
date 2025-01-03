@@ -1,0 +1,22 @@
+{
+    "path": "green-room/room.blend",
+    "type": "livingroom",
+    "link": "https://www.blendswap.com/blend/8381",
+    "camera": {
+        "loc": [11, -5, 3.5],
+        "dir": [-1, 0.1, 0],
+        "len": 30
+    },
+    "camera_range": {
+        "loc_lower_bound": [1, -5, 2],
+        "loc_upper_bound": [5, -1, 4.5],
+        "dir_lower_bound": [-1, -1, -0.2],
+        "dir_upper_bound": [0, 1, 0.1],
+        "focus_lower_bound": 20,
+        "focus_upper_bound": 50,
+        "distance_lower_bound": 1,
+        "distance_upper_bound": -1
+    },
+    "light_adjust": 1.0,
+    "moving_threshold": 5
+}

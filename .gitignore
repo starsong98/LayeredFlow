@@ -3,3 +3,10 @@ MultiRAFT/checkpoints/
 RAFT/checkpoints/
 **/__pycache__/
 *.pyc
+syn_datagen/external_blends/
+syn_datagen/external_hdrs/
+syn_datagen/images_data/
+.cache
+.config
+.nv
+*.zip

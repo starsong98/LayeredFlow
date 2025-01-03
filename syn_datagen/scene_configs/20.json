@@ -1,0 +1,21 @@
+{
+    "path": "the-modern-living-room/room.blend",
+    "type": "livingroom",
+    "link": "https://www.blendswap.com/blend/13491",
+    "camera": {
+        "loc": [-2, 3, 1.5],
+        "dir": [0, -1, 0],
+        "len": 30
+    },
+    "camera_range": {
+        "loc_lower_bound": [-4, 2.5, 1],
+        "loc_upper_bound": [-0.5, 4, 2],
+        "dir_lower_bound": [-0.3, -1, -0.2],
+        "dir_upper_bound": [0.3, -0.2, 0.1],
+        "focus_lower_bound": 20,
+        "focus_upper_bound": 50,
+        "distance_lower_bound": 1,
+        "distance_upper_bound": 50
+    },
+    "light_adjust": 2.0
+}
